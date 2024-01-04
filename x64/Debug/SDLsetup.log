@@ -1,0 +1,31 @@
+﻿  main.cpp
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(918,99): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(918,99): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(1296,89): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(1296,89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(2314,88): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(2314,88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(2704,87): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(2704,87): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(2979,55): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(2979,55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3120,55): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3120,55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3258,55): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3258,55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3662,89): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3662,89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3780,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3975,39): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4095,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4095,33): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4097,71): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4112,55): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4112,55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4285,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4285,27): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4303,49): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(4303,49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3702,28): warning C4101: 'count': unreferenced local variable
+E:\workspace\c++\SDLsetup\SDLsetup\main.cpp(3899,28): warning C4101: 'count': unreferenced local variable
+  SDLsetup.vcxproj -> E:\workspace\c++\SDLsetup\x64\Debug\SDLsetup.exe

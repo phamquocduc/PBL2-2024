@@ -1,0 +1,84 @@
+Ten doi bong: Manchester United
+Dia phuong: Manchester
+Huan luyen vien: Ole Gunnar Solskjaer
+Danh sach cau thu: 2
+So CMND: 123456789
+Ho ten: Cristiano Ronaldo
+Quoc tich: Portugal
+Ngay sinh: 05/02/1985
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: Tien dao
+--------------------------
+So CMND: 987654321
+Ho ten: Lionel Messi
+Quoc tich: Argentina
+Ngay sinh: 24/06/1987
+Chieu cao: 169.0
+Can nang: 72.0
+Vi tri thi dau: Tien dao
+--------------------------
+--------------------------
+Ten doi bong: Liverpool FC
+Dia phuong: liverpool
+Huan luyen vien: ABCDEFGH
+Danh sach cau thu: 4
+So CMND: 111122223
+Ho ten: pham quoc duc
+Quoc tich: Portugal
+Ngay sinh: 05/02/2004
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: hoi cup
+--------------------------
+So CMND: 111222333
+Ho ten: frieren
+Quoc tich: Argentina
+Ngay sinh: 24/06/1000
+Chieu cao: 187.0
+Can nang: 72.0
+Vi tri thi dau: ap
+--------------------------
+So CMND: 1111111111
+Ho ten: ABCDEFGHTIJK
+Quoc tich: Argentina
+Ngay sinh: 24/06/1000
+Chieu cao: 187.0
+Can nang: 72.0
+Vi tri thi dau: ap
+--------------------------
+So CMND: 049204009171
+Ho ten: pham quoc duc
+Quoc tich: vietnam
+Ngay sinh: 10/04/2004
+Chieu cao: 300.0
+Can nang: 150.0
+Vi tri thi dau: hau ve
+--------------------------
+--------------------------
+Ten doi bong: Real Madrid
+Dia phuong: Madrid
+Huan luyen vien: Carlo Ancelotti
+Danh sach cau thu: 1
+So CMND: 444455555
+Ho ten: ABCD
+Quoc tich: Portugal
+Ngay sinh: 05/02/1980
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: Tien dao
+--------------------------
+--------------------------
+Ten doi bong: duc1
+Dia phuong: vn
+Huan luyen vien: vn
+Danh sach cau thu: 1
+So CMND: 123123
+Ho ten: duc pham
+Quoc tich: vietnam
+Ngay sinh: 10/04/2023
+Chieu cao: 180
+Can nang: 75
+Vi tri thi dau: hau ve
+--------------------------
+--------------------------

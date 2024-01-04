@@ -1,0 +1,72 @@
+So CMND: 123456789
+Ho ten: Cristiano Ronaldo
+Quoc tich: Portugal
+Ngay sinh: 05/02/1985
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: Tien dao
+Thuoc doi bong: Manchester United
+--------------------------
+So CMND: 987654321
+Ho ten: Lionel Messi
+Quoc tich: Argentina
+Ngay sinh: 24/06/1987
+Chieu cao: 169.0
+Can nang: 72.0
+Vi tri thi dau: Tien dao
+Thuoc doi bong: Manchester United
+--------------------------
+So CMND: 111122223
+Ho ten: pham quoc duc
+Quoc tich: Portugal
+Ngay sinh: 05/02/2004
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: hoi cup
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 111222333
+Ho ten: frieren
+Quoc tich: Argentina
+Ngay sinh: 24/06/1000
+Chieu cao: 187.0
+Can nang: 72.0
+Vi tri thi dau: ap
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 1111111111
+Ho ten: ABCDEFGHTIJK
+Quoc tich: Argentina
+Ngay sinh: 24/06/1000
+Chieu cao: 187.0
+Can nang: 72.0
+Vi tri thi dau: ap
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 049204009171
+Ho ten: pham quoc duc
+Quoc tich: vietnam
+Ngay sinh: 10/04/2004
+Chieu cao: 300.0
+Can nang: 150.0
+Vi tri thi dau: hau ve
+Thuoc doi bong: Liverpool FC
+--------------------------
+So CMND: 444455555
+Ho ten: ABCD
+Quoc tich: Portugal
+Ngay sinh: 05/02/1980
+Chieu cao: 187.0
+Can nang: 83.0
+Vi tri thi dau: Tien dao
+Thuoc doi bong: Real Madrid
+--------------------------
+So CMND: 123123
+Ho ten: duc pham
+Quoc tich: vietnam
+Ngay sinh: 10/04/2023
+Chieu cao: 180
+Can nang: 75
+Vi tri thi dau: hau ve
+Thuoc doi bong: duc1
+--------------------------

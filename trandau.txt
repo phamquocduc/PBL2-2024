@@ -1,0 +1,96 @@
+ngay : 27
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Liverpool FC
+team 2 : Manchester United
+ty so : 2-1
+--------------------------
+ngay : 27
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Liverpool FC
+team 2 : Manchester United
+ty so : 2-1
+--------------------------
+ngay : 28
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Real Madrid
+team 2 : Liverpool FC
+ty so : 2-1
+--------------------------
+ngay : 27
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Manchester United
+team 2 : Liverpool FC
+ty so : 2-1
+--------------------------
+ngay : 27
+thang : 11
+nam : 2023
+san dau : A
+team 1 : Liverpool FC
+team 2 : Manchester United
+ty so : 2-1
+--------------------------
+ngay : 30
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Liverpool FC
+team 2 : Manchester United
+ty so : 2-1
+--------------------------
+ngay : 29
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Liverpool FC
+team 2 : Manchester United
+ty so : 2-1
+--------------------------
+ngay : 28
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Real Madrid
+team 2 : Liverpool FC
+ty so : 2-1
+--------------------------
+ngay : 27
+thang : 10
+nam : 2023
+san dau : A
+team 1 : Manchester United
+team 2 : Liverpool FC
+ty so : 2-1
+--------------------------
+ngay : 27
+thang : 11
+nam : 2023
+san dau : A
+team 1 : Liverpool FC
+team 2 : Manchester United
+ty so : 2-1
+--------------------------
+ngay : 1
+thang : 1
+nam : 1111
+san dau : 1
+team 1 : Liverpool FC
+team 2 : Manchester United
+ty so : 2-1
+--------------------------
+ngay : 1
+thang : 1
+nam : 1
+san dau : 1
+team 1 : Real Madrid
+team 2 : Manchester United
+ty so : 3-2
+--------------------------
